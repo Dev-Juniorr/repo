@@ -32,8 +32,8 @@ Dashboard!
 
 Requerimientos del Proyecto!
 ------
-1. Funcion para buscar usuarios
-2. Funcion para añadir amigos
+1. Funcion para buscar artistas
+2. Funcion para seguir artista
 3. Funcion para agregar NFT a "Favoritos"
 4. Funcion de notificaciones
 5. Funcion de buscar NFTS
