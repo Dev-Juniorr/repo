@@ -11,6 +11,10 @@ En este repositorio encontraras todos los recursos y requerimientos para crear e
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+*   🖥️  Backend!<p align="left">
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+</p>
+
 Login In!
 ------
 <img src="https://res.cloudinary.com/dovavvnjx/image/upload/v1655831774/LoginNFT_jgq51c.png" width="900" height="500" alt="Login In" />
@@ -28,14 +32,23 @@ Dashboard!
 
 Requerimientos del Proyecto!
 ------
-1. Creación de usuarios usando base de datos MongoDB
-2. Inicio de usuarios 
-3. Funcion para buscar usuarios
-4. Funcion para añadir amigos
-5. Funcion para agregar NFT a "Favoritos"
-6. Funcion de notificaciones
-7. Funcion de buscar NFTS
-8. Modo oscuro y modo claro
-9. Carrito de compras de NTFS
-10. Mensajeria
-Esta semana empezaremos con el Login, y tambien diseño
+1. Funcion para buscar usuarios
+2. Funcion para añadir amigos
+3. Funcion para agregar NFT a "Favoritos"
+4. Funcion de notificaciones
+5. Funcion de buscar NFTS
+6. Modo oscuro y modo claro
+7. Carrito de compras de NTFS
+8. Mensajeria
+9. CRUD
+10. Descargar información
+11. Buscar información
+12. Escribir comentarios
+13. Eliminar comentarios
+14. Visualizar estadisticas
+15. Permitir autenticación
+
+
+Fecha inicio!
+---------
+21/06/2022 3:00 PM
