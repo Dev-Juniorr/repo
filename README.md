@@ -1,4 +1,4 @@
-Hi 👋 My name is Bienvenidos al equipo de trabajo
+👋 Bienvenidos al equipo de trabajo
 =================================================
 
 En este repositorio encontraras todos los recursos y requerimientos para crear este gran proyecto en mente!
